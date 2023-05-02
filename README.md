@@ -1,2 +1,2 @@
 # Pneumonia-Detection-using-ML
-Pneumonia Detection using Machine Learning
+Pneumonia Detection using Machine Learning Algorithm
